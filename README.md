@@ -1,13 +1,26 @@
-<h1 align="center">Hi 👋, I'm Héctor</h1>
+<h1 align="center">Hi, I'm Héctor 👋🏻🧑🏻‍💻</h1>
+
+![Header](./[Your header image])
+
+``` JS
+  const hector = {
+    pronouns: "he" | "him",
+    code: [HTML, CSS, Javascript, Python, Java, SQL],
+    tools: [Boostrap, React, Node],
+  }
+```
 
 <br>
 
 <h2>📖 About Me</h2>
 <p> 
-  👨‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
+  🧑🏻‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
 </p>
 <p> 
-  🌱 I’m currently learning <b>WEB Development Full-Stack</b>
+  🎓 Pursuing a Higher National Diploma in Web Application Development (DAW)
+</p>
+<p> 
+  🌱 Expanding my skills in both front-end and back-end technologies
 </p>
 
 <br>
