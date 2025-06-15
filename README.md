@@ -3,7 +3,7 @@
 <br><br>
 
 <p align="left"> 
-  👨‍💻 Passionate about building things for the web
+  👨‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
 </p>
 
 <p align="left"> 
