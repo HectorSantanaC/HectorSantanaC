@@ -1,6 +1,4 @@
-<h1 align="center">Hi, I'm Héctor 👋🏻🧑🏻‍💻</h1>
-
-![Header](./[Your header image])
+<img src="./github-header-image.png" alt="header">
 
 ``` JS
   const hector = {
