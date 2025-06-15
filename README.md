@@ -1,19 +1,18 @@
-<h1 align="center">Hi 👋, I'm Héctor Santana</h1>
+<h1 align="center">Hi 👋, I'm Héctor</h1>
 
 <br><br>
 
-<p align="left"> 
+<p> 
   👨‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
 </p>
 
-<p align="left"> 
+<p> 
   🌱 I’m currently learning <b>WEB Development Full-Stack</b>
 </p>
 
 <br>
-<!-- <img align="right" alt="Coding" width="300" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"> -->
 
-<hr width="100%" >
+<hr>
 
 <br>
 
@@ -26,7 +25,14 @@
 
 <br>
 
-<hr width="100%" >
+<hr>
+
+<h2>📊 GitHub Stats</h2>
+<p>
+  <img src="https://github-readme-stats.vercel.app/api?username=HectorSantanaC&show_icons=true&theme=tokyonight" alt="Héctor's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSantanaC&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 <br>
 <!--
