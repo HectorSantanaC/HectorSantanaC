@@ -1,15 +1,18 @@
-<img src="./github-header-image.png" alt="header">
+<!-- Encabezado con imagen -->
+<img src="./github-header-image.png" alt="header" width="100%" style="max-width: 800px;">
 
+<!-- Código decorativo -->
 ``` JS
   const hector = {
     pronouns: "he" | "him",
-    code: [HTML, CSS, Javascript, Python, Java, SQL],
-    tools: [Boostrap, React, Node],
+    code: ["HTML", "CSS", "Javascript", "Python", "Java", "SQL"],
+    tools: ["Boostrap", "React", "Node"]
   }
 ```
 
 <br>
 
+<!-- Sección: Sobre mí -->
 <h2>📖 About Me</h2>
 <p> 
   🧑🏻‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
@@ -23,6 +26,7 @@
 
 <br>
 
+<!-- Sección: Lenguajes y herramientas -->
 <h2>🛠️ Languages and Tools</h2>
 <p> 
   <a href="https://skillicons.dev">
@@ -32,6 +36,7 @@
 
 <br>
 
+<!-- Sección: Estadísticas de GitHub -->
 <h2>📊 GitHub Stats</h2>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=HectorSantanaC&show_icons=true&theme=tokyonight" alt="Héctor's GitHub Stats"/>
@@ -41,11 +46,25 @@
 
 <br>
 
+<!-- Contador de visitas al perfil -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=HectorSantanaC&style=flat-square&color=blue" alt="Profile views"/>
+</p>
+
+<!-- Contacto -->
 <h2>📫 How to Reach Me</h2>
 <p>
   <a href="https://www.linkedin.com/in/héctor-santana" target="_blank" rel="noopener noreferrer">
     <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
   </a>
+</p>
+
+<br>
+
+<!-- Invitación a conectar -->
+<h2>🤝 Let's Connect</h2>
+<p>
+  I'm always open to collaborating on interesting projects or just having a chat about web development!
 </p>
 
 <!--
