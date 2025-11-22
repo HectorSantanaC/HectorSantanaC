@@ -6,7 +6,7 @@
   const hector = {
     pronouns: "he" | "him",
     code: ["HTML", "CSS", "Javascript", "Python", "Java", "SQL"],
-    tools: ["Boostrap", "React", "Node"]
+    tools: ["Boostrap", "React", "Node", "Spring Boot"]
   }
 ```
 
