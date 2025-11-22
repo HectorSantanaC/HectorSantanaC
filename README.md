@@ -30,7 +30,7 @@
 <h2>🛠️ Languages and Tools</h2>
 <p> 
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,html,css,bootstrap,js,nodejs,react,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=git,figma,html,css,bootstrap,js,nodejs,react,java,py,mysql,spring" />
   </a>
 </p>
 
