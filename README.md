@@ -39,8 +39,9 @@
 <!-- Sección: Estadísticas de GitHub -->
 <h2>📊 GitHub Stats</h2>
 <p>
-  <img src="https://github-stats-card.vercel.app/api?username=HectorSantanaC&theme=tokyonight" alt="Stats"/>
-  <img src="https://github-stats-card.vercel.app/api/languages?username=HectorSantanaC&theme=tokyonight" alt="Langs"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=HectorSantanaC&show_icons=true&theme=tokyonight" alt="Héctor's GitHub Stats"/>
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSantanaC&layout=compact&theme=tokyonight" alt="Top Languages"/>
 </p>
 
 <br>
