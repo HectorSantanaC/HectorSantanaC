@@ -24,9 +24,9 @@
 ---
 ## 📊 GitHub Stats
 <div align="center">
-![GitHub Stats](./profile/stats.svg)
+<img src="https://raw.githubusercontent.com/HectorSantanaC/HectorSantanaC/main/profile/stats.svg" alt="GitHub Stats" />
 <br/>
-![Top Languages](./profile/top-langs.svg)
+<img src="https://raw.githubusercontent.com/HectorSantanaC/HectorSantanaC/main/profile/top-langs.svg" alt="Top Languages" />
 </div>
 ---
 ## 📫 How to Reach Me
