@@ -1,0 +1,15 @@
+name: Generate README stats
+on:
+  schedule:
+    - cron: "0 */6 * * *"
+  workflow_dispatch:
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: generate stats
+        uses: anuraghazra/github-readme-stats-action@v1.2.0
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
