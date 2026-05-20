@@ -1,83 +1,41 @@
-<!-- Encabezado con imagen -->
-<img src="./github-header-image.png" alt="header" width="100%" style="max-width: 800px;">
-
-<!-- Código decorativo -->
-``` JS
-  const hector = {
-    pronouns: "he" | "him",
-    code: ["HTML", "CSS", "Javascript", "Python", "Java", "SQL"],
-    tools: ["Boostrap", "React", "Node", "Spring Boot"]
-  }
-```
-
-<br>
-
-<!-- Sección: Sobre mí -->
-<h2>📖 About Me</h2>
-<p> 
-  🧑🏻‍💻 Web development enthusiast, focused on creating modern and efficient solutions 
-</p>
-<p> 
-  🎓 Pursuing a Higher National Diploma in Web Application Development (DAW)
-</p>
-<p> 
-  🌱 Expanding my skills in both front-end and back-end technologies
-</p>
-
-<br>
-
-<!-- Sección: Lenguajes y herramientas -->
-<h2>🛠️ Languages and Tools</h2>
-<p> 
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,figma,html,css,bootstrap,js,nodejs,react,java,py,mysql,spring" />
+<div align="center">
+<img src="./github-header-image.png" alt="Héctor Santana" width="100%" style="max-width: 800px;">
+<h3>
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=58A6FF¢er=true&vCenter=true&multiline=true&repeat=true&width=600&height=100&lines=Web+Development+Enthusiast;Full+Stack+Developer;DAW+Student" alt="Typing SVG" />
   </a>
-</p>
-
-<br>
-
-<!-- Sección: Estadísticas de GitHub -->
-<h2>📊 GitHub Stats</h2>
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=HectorSantanaC&show_icons=true&theme=tokyonight" alt="Héctor's GitHub Stats"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HectorSantanaC&layout=compact&theme=tokyonight" alt="Top Languages"/>
-</p>
-
-<br>
-
-<!-- Contador de visitas al perfil -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=HectorSantanaC&style=flat-square&color=blue" alt="Profile views"/>
-</p>
-
-<!-- Contacto -->
-<h2>📫 How to Reach Me</h2>
-<p>
-  <a href="https://www.linkedin.com/in/héctor-santana" target="_blank" rel="noopener noreferrer">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png" alt="LinkedIn" width="30" height="30"/>
-  </a>
-</p>
-
-<br>
-
-<!-- Invitación a conectar -->
-<h2>🤝 Let's Connect</h2>
-<p>
-  I'm always open to collaborating on interesting projects or just having a chat about web development!
-</p>
-
-<!--
-**HectorSantanaC/HectorSantanaC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</h3>
+![Stars](https://img.shields.io/github/stars/HectorSantanaC?style=flat&color=blue)
+![Followers](https://img.shields.io/github/followers/HectorSantanaC?style=flat&color=brightgreen)
+</div>
+---
+## 📖 About Me
+- 🧑🏻‍💻 Web development enthusiast focused on creating modern and efficient solutions
+- 🎓 Pursuing a Higher National Diploma in **Web Application Development (DAW)**
+- 🌱 Expanding my skills in both front-end and back-end technologies
+- 🔧 I love turning complex problems into simple, elegant solutions
+---
+## 🛠️ Languages & Tools
+<div align="center">
+<a href="https://skillicons.dev">
+  <img src="https://skillicons.dev/icons?i=git,figma,html,css,bootstrap,js,nodejs,react,java,py,mysql,spring" />
+</a>
+</div>
+---
+## 📊 GitHub Stats
+<div align="center">
+![GitHub Stats](./profile/stats.svg)
+<br/>
+![Top Languages](./profile/top-langs.svg)
+</div>
+---
+## 📫 How to Reach Me
+<div align="center">
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/h%C3%A9ctor-santana)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HectorSantanaC)
+</div>
+---
+<div align="center">
+![Profile Views](https://komarev.com/ghpvc/?username=HectorSantanaC&style=flat-square&color=blue)
+*"Code is like humor. When you have to explain it, it's bad."* — Cory House
+</div>
